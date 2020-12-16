@@ -43,7 +43,8 @@ You are expected to read through the notes and the slide deck before starting th
 
 - `Pandas Tutorial - Documentation & Notes.pdf` : Documentation
 - `Pandas Tutorial - Slide Deck.pdf` : Slide deck
-- **Assignments**
-  - `Pandas Coding Assignment.ipynb`Assignment
+- **Coding_Assignments** and **Quiz**
+  - `Pandas_Coding_Assignment.ipynb`Assignment
+  - `Pandas_Coding_Extra_Practice.ipynb` Optional Assignment
   - `Pandas for Data Wrangling Quiz.pdf` Quiz
-- **Solutions** have been appended with `Solutions`
+- **Solutions** have been appended with `SOLUTIONS`
